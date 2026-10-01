@@ -1,0 +1,49 @@
+service_no,transfer_date,from_place,to_place,reason
+UF-1001,2024-04-16,Guwahati,Bengaluru,Promotion
+UF-1001,2025-01-01,Bengaluru,Jaipur,Administrative
+UF-1002,2025-02-02,Chennai,Lucknow,Promotion
+UF-1003,2025-03-03,Kochi,Bhopal,Compassionate
+UF-1004,2024-07-12,Patna,Ahmedabad,Administrative
+UF-1004,2025-04-04,Ahmedabad,Nagpur,Training completion
+UF-1005,2025-05-05,Ranchi,Hyderabad,Administrative
+UF-1006,2025-06-06,Bhubaneswar,Bengaluru,Promotion
+UF-1007,2024-10-08,Lucknow,Guwahati,Training completion
+UF-1007,2025-07-07,Guwahati,Chennai,Compassionate
+UF-1008,2025-08-08,Chandigarh,Kochi,Training completion
+UF-1009,2025-09-09,Dehradun,Ahmedabad,Administrative
+UF-1010,2025-01-05,Hyderabad,Patna,Compassionate
+UF-1010,2025-10-10,Patna,Ranchi,Promotion
+UF-1011,2025-11-11,Raipur,Bhubaneswar,Compassionate
+UF-1012,2025-12-12,Jaipur,Guwahati,Training completion
+UF-1013,2024-04-04,Kochi,Lucknow,Promotion
+UF-1013,2025-01-13,Lucknow,Chandigarh,Administrative
+UF-1014,2025-02-14,Bhopal,Dehradun,Promotion
+UF-1015,2025-03-15,Nagpur,Patna,Compassionate
+UF-1016,2024-06-30,Bhubaneswar,Hyderabad,Administrative
+UF-1016,2025-04-16,Hyderabad,Raipur,Training completion
+UF-1017,2025-05-17,Bengaluru,Jaipur,Administrative
+UF-1018,2025-06-18,Chennai,Lucknow,Promotion
+UF-1019,2024-09-26,Dehradun,Kochi,Training completion
+UF-1019,2025-07-19,Kochi,Bhopal,Compassionate
+UF-1020,2025-08-20,Ahmedabad,Nagpur,Training completion
+UF-1021,2025-09-01,Ranchi,Hyderabad,Administrative
+UF-1022,2024-12-04,Jaipur,Bhubaneswar,Compassionate
+UF-1022,2025-10-02,Bhubaneswar,Bengaluru,Promotion
+UF-1023,2025-11-03,Guwahati,Chennai,Compassionate
+UF-1024,2025-12-04,Chandigarh,Kochi,Training completion
+UF-1025,2024-03-03,Nagpur,Dehradun,Promotion
+UF-1025,2025-01-05,Dehradun,Ahmedabad,Administrative
+UF-1026,2025-02-06,Patna,Ranchi,Promotion
+UF-1027,2025-03-07,Raipur,Bhubaneswar,Compassionate
+UF-1028,2024-06-23,Chennai,Jaipur,Administrative
+UF-1028,2025-04-08,Jaipur,Guwahati,Training completion
+UF-1029,2025-05-09,Lucknow,Chandigarh,Administrative
+UF-1030,2025-06-10,Bhopal,Dehradun,Promotion
+UF-1031,2024-09-19,Ranchi,Nagpur,Training completion
+UF-1031,2025-07-11,Nagpur,Patna,Compassionate
+UF-1032,2025-08-12,Hyderabad,Raipur,Training completion
+UF-1033,2025-09-13,Bengaluru,Jaipur,Administrative
+UF-1034,2024-12-17,Chandigarh,Chennai,Compassionate
+UF-1034,2025-10-14,Chennai,Lucknow,Promotion
+UF-1035,2025-11-15,Kochi,Bhopal,Compassionate
+UF-1036,2025-12-16,Ahmedabad,Nagpur,Training completion

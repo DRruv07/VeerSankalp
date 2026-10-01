@@ -1,0 +1,85 @@
+service_no,posting_place,state_name,start_date,end_date,duty_type
+UF-1001,Guwahati,Assam,2023-06-06,2024-04-01,Recruitment office
+UF-1001,Bengaluru,Karnataka,2024-04-16,2024-12-22,District headquarters
+UF-1001,Jaipur,Rajasthan,2025-01-01,,Records office
+UF-1002,Chennai,Tamil Nadu,2024-05-16,2025-01-22,Training centre
+UF-1002,Lucknow,Uttar Pradesh,2025-02-02,,Hospital staff
+UF-1003,Kochi,Kerala,2024-06-12,2025-02-19,Records office
+UF-1003,Bhopal,Madhya Pradesh,2025-03-03,,Recruitment office
+UF-1004,Patna,Bihar,2023-09-01,2024-06-27,District headquarters
+UF-1004,Ahmedabad,Gujarat,2024-07-12,2025-03-22,Hospital staff
+UF-1004,Nagpur,Maharashtra,2025-04-04,,Ceremonial unit
+UF-1005,Ranchi,Jharkhand,2024-08-10,2025-04-21,Recruitment office
+UF-1005,Hyderabad,Telangana,2025-05-05,,Family welfare cell
+UF-1006,Bhubaneswar,Odisha,2024-09-09,2025-05-22,Ceremonial unit
+UF-1006,Bengaluru,Karnataka,2025-06-06,,District headquarters
+UF-1007,Lucknow,Uttar Pradesh,2023-11-28,2024-09-23,Hospital staff
+UF-1007,Guwahati,Assam,2024-10-08,2025-06-21,Family welfare cell
+UF-1007,Chennai,Tamil Nadu,2025-07-07,,Training centre
+UF-1008,Chandigarh,Chandigarh,2024-11-07,2025-07-22,District headquarters
+UF-1008,Kochi,Kerala,2025-08-08,,Records office
+UF-1009,Dehradun,Uttarakhand,2024-12-07,2025-08-22,Training centre
+UF-1009,Ahmedabad,Gujarat,2025-09-09,,Hospital staff
+UF-1010,Hyderabad,Telangana,2024-02-25,2024-12-21,Family welfare cell
+UF-1010,Patna,Bihar,2025-01-05,2025-09-21,Records office
+UF-1010,Ranchi,Jharkhand,2025-10-10,,Recruitment office
+UF-1011,Raipur,Chhattisgarh,2025-02-04,2025-10-22,Hospital staff
+UF-1011,Bhubaneswar,Odisha,2025-11-11,,Ceremonial unit
+UF-1012,Jaipur,Rajasthan,2025-03-05,2025-11-21,Recruitment office
+UF-1012,Guwahati,Assam,2025-12-12,,Family welfare cell
+UF-1013,Kochi,Kerala,2023-05-25,2024-03-20,Records office
+UF-1013,Lucknow,Uttar Pradesh,2024-04-04,2024-12-22,Ceremonial unit
+UF-1013,Chandigarh,Chandigarh,2025-01-13,,District headquarters
+UF-1014,Bhopal,Madhya Pradesh,2024-05-04,2025-01-22,Family welfare cell
+UF-1014,Dehradun,Uttarakhand,2025-02-14,,Training centre
+UF-1015,Nagpur,Maharashtra,2024-05-31,2025-02-19,District headquarters
+UF-1015,Patna,Bihar,2025-03-15,,Records office
+UF-1016,Bhubaneswar,Odisha,2023-08-20,2024-06-15,Ceremonial unit
+UF-1016,Hyderabad,Telangana,2024-06-30,2025-03-22,Training centre
+UF-1016,Raipur,Chhattisgarh,2025-04-16,,Hospital staff
+UF-1017,Bengaluru,Karnataka,2024-07-29,2025-04-21,Records office
+UF-1017,Jaipur,Rajasthan,2025-05-17,,Recruitment office
+UF-1018,Chennai,Tamil Nadu,2024-08-28,2025-05-22,Hospital staff
+UF-1018,Lucknow,Uttar Pradesh,2025-06-18,,Ceremonial unit
+UF-1019,Dehradun,Uttarakhand,2023-11-16,2024-09-11,Training centre
+UF-1019,Kochi,Kerala,2024-09-26,2025-06-21,Recruitment office
+UF-1019,Bhopal,Madhya Pradesh,2025-07-19,,Family welfare cell
+UF-1020,Ahmedabad,Gujarat,2024-10-26,2025-07-22,Ceremonial unit
+UF-1020,Nagpur,Maharashtra,2025-08-20,,District headquarters
+UF-1021,Ranchi,Jharkhand,2024-11-05,2025-08-02,Family welfare cell
+UF-1021,Hyderabad,Telangana,2025-09-01,,Training centre
+UF-1022,Jaipur,Rajasthan,2024-01-24,2024-11-19,Recruitment office
+UF-1022,Bhubaneswar,Odisha,2024-12-04,2025-09-01,District headquarters
+UF-1022,Bengaluru,Karnataka,2025-10-02,,Records office
+UF-1023,Guwahati,Assam,2025-01-03,2025-10-02,Training centre
+UF-1023,Chennai,Tamil Nadu,2025-11-03,,Hospital staff
+UF-1024,Chandigarh,Chandigarh,2025-02-01,2025-11-01,Records office
+UF-1024,Kochi,Kerala,2025-12-04,,Recruitment office
+UF-1025,Nagpur,Maharashtra,2023-04-23,2024-02-17,District headquarters
+UF-1025,Dehradun,Uttarakhand,2024-03-03,2024-12-02,Hospital staff
+UF-1025,Ahmedabad,Gujarat,2025-01-05,,Ceremonial unit
+UF-1026,Patna,Bihar,2024-04-27,2025-01-27,Recruitment office
+UF-1026,Ranchi,Jharkhand,2025-02-06,,Family welfare cell
+UF-1027,Raipur,Chhattisgarh,2024-05-24,2025-02-24,Ceremonial unit
+UF-1027,Bhubaneswar,Odisha,2025-03-07,,District headquarters
+UF-1028,Chennai,Tamil Nadu,2023-08-13,2024-06-08,Hospital staff
+UF-1028,Jaipur,Rajasthan,2024-06-23,2025-03-27,Family welfare cell
+UF-1028,Guwahati,Assam,2025-04-08,,Training centre
+UF-1029,Lucknow,Uttar Pradesh,2024-07-22,2025-04-26,District headquarters
+UF-1029,Chandigarh,Chandigarh,2025-05-09,,Records office
+UF-1030,Bhopal,Madhya Pradesh,2024-08-21,2025-05-27,Training centre
+UF-1030,Dehradun,Uttarakhand,2025-06-10,,Hospital staff
+UF-1031,Ranchi,Jharkhand,2023-11-09,2024-09-04,Family welfare cell
+UF-1031,Nagpur,Maharashtra,2024-09-19,2025-06-26,Records office
+UF-1031,Patna,Bihar,2025-07-11,,Recruitment office
+UF-1032,Hyderabad,Telangana,2024-10-19,2025-07-27,Hospital staff
+UF-1032,Raipur,Chhattisgarh,2025-08-12,,Ceremonial unit
+UF-1033,Bengaluru,Karnataka,2024-11-18,2025-08-27,Recruitment office
+UF-1033,Jaipur,Rajasthan,2025-09-13,,Family welfare cell
+UF-1034,Chandigarh,Chandigarh,2024-02-06,2024-12-02,Records office
+UF-1034,Chennai,Tamil Nadu,2024-12-17,2025-09-26,Ceremonial unit
+UF-1034,Lucknow,Uttar Pradesh,2025-10-14,,District headquarters
+UF-1035,Kochi,Kerala,2025-01-16,2025-10-27,Family welfare cell
+UF-1035,Bhopal,Madhya Pradesh,2025-11-15,,Training centre
+UF-1036,Ahmedabad,Gujarat,2025-02-14,2025-11-26,District headquarters
+UF-1036,Nagpur,Maharashtra,2025-12-16,,Records office
